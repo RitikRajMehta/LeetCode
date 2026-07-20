@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/RitikRajMehta/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/RitikRajMehta/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/RitikRajMehta/LeetCode/tree/master/0067-add-binary) |
+| [0171-excel-sheet-column-number](https://github.com/RitikRajMehta/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/RitikRajMehta/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/RitikRajMehta/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Hash Table
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/RitikRajMehta/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/RitikRajMehta/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/RitikRajMehta/LeetCode/tree/master/0125-valid-palindrome) |
+| [0171-excel-sheet-column-number](https://github.com/RitikRajMehta/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/RitikRajMehta/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
 |  |
