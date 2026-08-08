@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/RitikRajMehta/LeetCode/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/RitikRajMehta/LeetCode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/RitikRajMehta/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/RitikRajMehta/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0704-binary-search](https://github.com/RitikRajMehta/LeetCode/tree/master/0704-binary-search) |
 ## Math
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/RitikRajMehta/LeetCode/tree/master/0022-generate-parentheses) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/RitikRajMehta/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/RitikRajMehta/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Breadth-First Search
 |  |
