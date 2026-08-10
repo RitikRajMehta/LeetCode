@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/RitikRajMehta/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/RitikRajMehta/LeetCode/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/RitikRajMehta/LeetCode/tree/master/0171-excel-sheet-column-number) |
+| [1510-stone-game-iv](https://github.com/RitikRajMehta/LeetCode/tree/master/1510-stone-game-iv) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/RitikRajMehta/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/RitikRajMehta/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Hash Table
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/RitikRajMehta/LeetCode/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RitikRajMehta/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/RitikRajMehta/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [1510-stone-game-iv](https://github.com/RitikRajMehta/LeetCode/tree/master/1510-stone-game-iv) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -160,4 +162,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/RitikRajMehta/LeetCode/tree/master/0238-product-of-array-except-self) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/RitikRajMehta/LeetCode/tree/master/1510-stone-game-iv) |
+## Game Theory
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/RitikRajMehta/LeetCode/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/RitikRajMehta/LeetCode/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/RitikRajMehta/LeetCode/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/RitikRajMehta/LeetCode/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
