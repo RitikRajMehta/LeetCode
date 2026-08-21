@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RitikRajMehta/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RitikRajMehta/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/RitikRajMehta/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/RitikRajMehta/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/RitikRajMehta/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/RitikRajMehta/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Math
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/RitikRajMehta/LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/RitikRajMehta/LeetCode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/RitikRajMehta/LeetCode/tree/master/2029-stone-game-ix) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/RitikRajMehta/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/RitikRajMehta/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/RitikRajMehta/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Hash Table
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0704-binary-search](https://github.com/RitikRajMehta/LeetCode/tree/master/0704-binary-search) |
 | [1382-balance-a-binary-search-tree](https://github.com/RitikRajMehta/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/RitikRajMehta/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0693-binary-number-with-alternating-bits](https://github.com/RitikRajMehta/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
 | [1386-cinema-seat-allocation](https://github.com/RitikRajMehta/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/RitikRajMehta/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/RitikRajMehta/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/RitikRajMehta/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Simulation
 |  |
@@ -167,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/RitikRajMehta/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/RitikRajMehta/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Rolling Hash
 |  |
@@ -244,4 +249,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/RitikRajMehta/LeetCode/tree/master/0147-insertion-sort-list) |
+## Combinatorics
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/RitikRajMehta/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 <!---LeetCode Topics End-->
