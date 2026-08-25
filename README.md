@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/RitikRajMehta/LeetCode/tree/master/0704-binary-search) |
 | [1386-cinema-seat-allocation](https://github.com/RitikRajMehta/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/RitikRajMehta/LeetCode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/RitikRajMehta/LeetCode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/RitikRajMehta/LeetCode/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/RitikRajMehta/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RitikRajMehta/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/RitikRajMehta/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [1510-stone-game-iv](https://github.com/RitikRajMehta/LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/RitikRajMehta/LeetCode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/RitikRajMehta/LeetCode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/RitikRajMehta/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/RitikRajMehta/LeetCode/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/RitikRajMehta/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/RitikRajMehta/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1510-stone-game-iv](https://github.com/RitikRajMehta/LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/RitikRajMehta/LeetCode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/RitikRajMehta/LeetCode/tree/master/1872-stone-game-viii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -210,16 +213,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/RitikRajMehta/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [1872-stone-game-viii](https://github.com/RitikRajMehta/LeetCode/tree/master/1872-stone-game-viii) |
 ## Minimax
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/RitikRajMehta/LeetCode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/RitikRajMehta/LeetCode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/RitikRajMehta/LeetCode/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/RitikRajMehta/LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/RitikRajMehta/LeetCode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/RitikRajMehta/LeetCode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/RitikRajMehta/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/RitikRajMehta/LeetCode/tree/master/2029-stone-game-ix) |
 ## Nim Game
@@ -235,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/RitikRajMehta/LeetCode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/RitikRajMehta/LeetCode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/RitikRajMehta/LeetCode/tree/master/2029-stone-game-ix) |
 ## Counting
 |  |
