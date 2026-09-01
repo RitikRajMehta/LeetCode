@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/RitikRajMehta/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/RitikRajMehta/LeetCode/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/RitikRajMehta/LeetCode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/RitikRajMehta/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/RitikRajMehta/LeetCode/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/RitikRajMehta/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RitikRajMehta/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/RitikRajMehta/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1510-stone-game-iv](https://github.com/RitikRajMehta/LeetCode/tree/master/1510-stone-game-iv) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/RitikRajMehta/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/RitikRajMehta/LeetCode/tree/master/0169-majority-element) |
 | [1382-balance-a-binary-search-tree](https://github.com/RitikRajMehta/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 ## Greedy
