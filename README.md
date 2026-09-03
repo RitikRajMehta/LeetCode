@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/RitikRajMehta/LeetCode/tree/master/0179-largest-number) |
 | [0219-contains-duplicate-ii](https://github.com/RitikRajMehta/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/RitikRajMehta/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/RitikRajMehta/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/RitikRajMehta/LeetCode/tree/master/0704-binary-search) |
 | [1386-cinema-seat-allocation](https://github.com/RitikRajMehta/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/RitikRajMehta/LeetCode/tree/master/1563-stone-game-v) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/RitikRajMehta/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/RitikRajMehta/LeetCode/tree/master/0704-binary-search) |
 | [1382-balance-a-binary-search-tree](https://github.com/RitikRajMehta/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/RitikRajMehta/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/RitikRajMehta/LeetCode/tree/master/0067-add-binary) |
+| [0287-find-the-duplicate-number](https://github.com/RitikRajMehta/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0693-binary-number-with-alternating-bits](https://github.com/RitikRajMehta/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
 | [1386-cinema-seat-allocation](https://github.com/RitikRajMehta/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/RitikRajMehta/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RitikRajMehta/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/RitikRajMehta/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/RitikRajMehta/LeetCode/tree/master/0125-valid-palindrome) |
+| [0287-find-the-duplicate-number](https://github.com/RitikRajMehta/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## String Matching
 |  |
 | ------- |
@@ -298,4 +302,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/RitikRajMehta/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/RitikRajMehta/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/RitikRajMehta/LeetCode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
