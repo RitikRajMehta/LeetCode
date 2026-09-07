@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/RitikRajMehta/LeetCode/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/RitikRajMehta/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/RitikRajMehta/LeetCode/tree/master/0179-largest-number) |
+| [0940-distinct-subsequences-ii](https://github.com/RitikRajMehta/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/RitikRajMehta/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/RitikRajMehta/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1927-sum-game](https://github.com/RitikRajMehta/LeetCode/tree/master/1927-sum-game) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/RitikRajMehta/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RitikRajMehta/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/RitikRajMehta/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0940-distinct-subsequences-ii](https://github.com/RitikRajMehta/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1510-stone-game-iv](https://github.com/RitikRajMehta/LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/RitikRajMehta/LeetCode/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/RitikRajMehta/LeetCode/tree/master/1872-stone-game-viii) |
