@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/RitikRajMehta/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/RitikRajMehta/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/RitikRajMehta/LeetCode/tree/master/0704-binary-search) |
+| [0835-image-overlap](https://github.com/RitikRajMehta/LeetCode/tree/master/0835-image-overlap) |
 | [1386-cinema-seat-allocation](https://github.com/RitikRajMehta/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/RitikRajMehta/LeetCode/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/RitikRajMehta/LeetCode/tree/master/1872-stone-game-viii) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/RitikRajMehta/LeetCode/tree/master/0079-word-search) |
+| [0835-image-overlap](https://github.com/RitikRajMehta/LeetCode/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/RitikRajMehta/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Sorting
 |  |
