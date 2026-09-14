@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/RitikRajMehta/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/RitikRajMehta/LeetCode/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/RitikRajMehta/LeetCode/tree/master/0171-excel-sheet-column-number) |
+| [0836-rectangle-overlap](https://github.com/RitikRajMehta/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1510-stone-game-iv](https://github.com/RitikRajMehta/LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/RitikRajMehta/LeetCode/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/RitikRajMehta/LeetCode/tree/master/1872-stone-game-viii) |
@@ -336,4 +337,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/RitikRajMehta/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/RitikRajMehta/LeetCode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
