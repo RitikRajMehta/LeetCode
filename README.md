@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RitikRajMehta/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0169-majority-element](https://github.com/RitikRajMehta/LeetCode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/RitikRajMehta/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [1096-brace-expansion-ii](https://github.com/RitikRajMehta/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/RitikRajMehta/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/RitikRajMehta/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/RitikRajMehta/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/RitikRajMehta/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/RitikRajMehta/LeetCode/tree/master/0179-largest-number) |
 | [0940-distinct-subsequences-ii](https://github.com/RitikRajMehta/LeetCode/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/RitikRajMehta/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/RitikRajMehta/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/RitikRajMehta/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/RitikRajMehta/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/RitikRajMehta/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/RitikRajMehta/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/RitikRajMehta/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Union-Find
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/RitikRajMehta/LeetCode/tree/master/0020-valid-parentheses) |
+| [1096-brace-expansion-ii](https://github.com/RitikRajMehta/LeetCode/tree/master/1096-brace-expansion-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -266,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RitikRajMehta/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/RitikRajMehta/LeetCode/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/RitikRajMehta/LeetCode/tree/master/0079-word-search) |
+| [1096-brace-expansion-ii](https://github.com/RitikRajMehta/LeetCode/tree/master/1096-brace-expansion-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -279,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/RitikRajMehta/LeetCode/tree/master/0147-insertion-sort-list) |
 | [0169-majority-element](https://github.com/RitikRajMehta/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/RitikRajMehta/LeetCode/tree/master/0179-largest-number) |
+| [1096-brace-expansion-ii](https://github.com/RitikRajMehta/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/RitikRajMehta/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/RitikRajMehta/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RitikRajMehta/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
