@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/RitikRajMehta/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/RitikRajMehta/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/RitikRajMehta/LeetCode/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/RitikRajMehta/LeetCode/tree/master/0079-word-search) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/RitikRajMehta/LeetCode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RitikRajMehta/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/RitikRajMehta/LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/RitikRajMehta/LeetCode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/RitikRajMehta/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [1096-brace-expansion-ii](https://github.com/RitikRajMehta/LeetCode/tree/master/1096-brace-expansion-ii) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/RitikRajMehta/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/RitikRajMehta/LeetCode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/RitikRajMehta/LeetCode/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/RitikRajMehta/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/RitikRajMehta/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/RitikRajMehta/LeetCode/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/RitikRajMehta/LeetCode/tree/master/0079-word-search) |
@@ -306,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/RitikRajMehta/LeetCode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/RitikRajMehta/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/RitikRajMehta/LeetCode/tree/master/0147-insertion-sort-list) |
 | [0169-majority-element](https://github.com/RitikRajMehta/LeetCode/tree/master/0169-majority-element) |
